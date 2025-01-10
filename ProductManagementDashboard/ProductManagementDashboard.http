@@ -1,4 +1,4 @@
-@ProductManagementDashboard_HostAddress = http://localhost:5029
+@ProductManagementDashboard_HostAddress = http://localhost:5244
 
 GET {{ProductManagementDashboard_HostAddress}}/weatherforecast/
 Accept: application/json
