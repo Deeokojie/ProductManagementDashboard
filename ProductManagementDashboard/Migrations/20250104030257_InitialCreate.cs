@@ -1,5 +1,6 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
+using ProductManagementDashboard.Models;
 
 #nullable disable
 

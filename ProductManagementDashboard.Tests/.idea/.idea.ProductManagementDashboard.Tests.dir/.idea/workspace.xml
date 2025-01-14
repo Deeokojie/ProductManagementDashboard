@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e202f6a-8f03-4b48-bd8c-1b71ac71712e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProductManagementDashboard.dir/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProductManagementDashboard.dir/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProductManagementDashboard.dir/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProductManagementDashboard.dir/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProductManagementDashboard.dir/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductManagementDashboard.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ProductManagementDashboard.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTest1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductManagementDashboard.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductManagementDashboard.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductManagementDashboard/Controllers/ProductController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductManagementDashboard/Controllers/ProductController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductManagementDashboard/Migrations/20250104030257_InitialCreate.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductManagementDashboard/Migrations/20250104030257_InitialCreate.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductManagementDashboard/Migrations/20250104030257_InitialCreate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductManagementDashboard/Migrations/20250104030257_InitialCreate.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductManagementDashboard/Migrations/ApplicationDbContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductManagementDashboard/Migrations/ApplicationDbContextModelSnapshot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductManagementDashboard/Models/ApplicationDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductManagementDashboard/Models/ApplicationDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductManagementDashboard/Models/Product.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductManagementDashboard/Models/Product.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductManagementDashboard/ProductManagementDashboard.Tests/ProductManagementDashboard.Tests.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductManagementDashboard/ProductManagementDashboard.Tests/UnitTest1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductManagementDashboard/ProductManagementDashboard.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductManagementDashboard/ProductManagementDashboard.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductManagementDashboard/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductManagementDashboard/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductManagementDashboard/products.db" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductManagementDashboard/products.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductManagementDashboard/products.db-shm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductManagementDashboard/products.db-wal" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2rXA5M0FovTdeNs21LyMUYj8wV9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;/Users/test/Library/Application Support/JetBrains/Rider2023.2/resharper-host/DecompilerCache&quot;,
+      &quot;/Users/test/Library/Application Support/JetBrains/Rider2023.2/resharper-host/SourcesCache&quot;,
+      &quot;/Users/test/.local/share/Symbols/src&quot;
+    ]
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e202f6a-8f03-4b48-bd8c-1b71ac71712e" name="Changes" comment="" />
+      <created>1736694863588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736694863588</updated>
+      <workItem from="1736694866301" duration="6337000" />
+      <workItem from="1736730988860" duration="1667000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
